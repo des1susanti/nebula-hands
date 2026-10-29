@@ -26,7 +26,7 @@ Layar terbagi dua: kamera dengan kerangka tangan di kiri, kanvas partikel di kan
 Butuh Python 3.9–3.12 dan webcam.
 
 ```bash
-git clone https://github.com/<username>/nebula-hands.git
+https://github.com/des1susanti/nebula-hands
 cd nebula-hands
 pip install -r requirements.txt
 python nebula_hands.py
