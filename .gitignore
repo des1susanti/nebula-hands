@@ -1,0 +1,17 @@
+# Model diunduh otomatis saat program pertama dijalankan
+hand_landmarker.task
+*.part
+
+# Screenshot dari tombol P
+nebula_*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# macOS / editor
+.DS_Store
+.vscode/
+.idea/
